@@ -1,3 +1,3 @@
 # gittest
 
-this is my first gittest.
+This is my first git tutorial.
